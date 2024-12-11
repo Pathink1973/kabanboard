@@ -1,10 +1,10 @@
 // Initial categories
 const defaultCategories = [
-    'Graphic Design',
-    'Editorial Design',
+    'Design Gráfico',
+    'Design Editorial',
     'UI/UX Design',
-    'Web Design',
-    'Illustration',
+    'WebDesign',
+    'Ilustração',
     'Motion Design'
 ];
 
