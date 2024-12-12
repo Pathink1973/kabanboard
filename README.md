@@ -1,6 +1,6 @@
 # 🎨 Kanban Board - ToDo para Criativos
 
-Um quadro Kanban moderno e elegante, projetado especificamente para profissionais criativos, com uma interface inspirada no design minimalista da Apple.
+Um quadro Kanban moderno e elegante, projetado especificamente para profissionais criativos.
 
 ![Kanban Board Preview](assets/preview.png)
 
